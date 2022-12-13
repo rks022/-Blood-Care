@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Blood Care App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="bloodgroups">
+        <item>Select your blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+
+    <string-array name="chooseGender">
+        <item>Select your Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+
+    <string-array name="chooseHypertension">
+        <item>Do you have Hypertension?</item>
+        <item>Yes</item>
+        <item>NO</item>
+    </string-array>
+
+
+    <string-array name="chooseDiabetes">
+        <item>Do you have Diabetes?</item>
+        <item>Yes</item>
+        <item>NO</item>
+    </string-array>
+
+
+    <string-array name="chooseAnemia">
+        <item>Do you have Anemia?</item>
+        <item>Yes</item>
+        <item>NO</item>
+    </string-array>
+
+
+    <string-array name="chooseAnyOther">
+        <item>Do you have any other disease of concern?</item>
+        <item>Yes</item>
+        <item>NO</item>
+    </string-array>
+
+
+    <string-array name="showPhone">
+        <item>Do you want to show your Phone Number?</item>
+        <item>Yes</item>
+        <item>NO</item>
+    </string-array>
+
+
+</resources>
